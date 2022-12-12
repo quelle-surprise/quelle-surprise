@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quelle-surprise
-- 👀 I’m interested in backend web devevelopment and test automation
+- 👀 I’m interested in backend web development and test automation
 - 🌱 I’m currently learning **GO** :) 
 - 📫 How to reach me -> https://www.linkedin.com/in/jakub-piotrowski1/ 
 
